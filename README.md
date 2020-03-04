@@ -1,2 +1,2 @@
 # FuChaiWeb
-a website predict the chinese FuChai 
+A website predict the chinese FuChai 
